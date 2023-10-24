@@ -10,10 +10,11 @@ permalink: /project/
 ### 2022
 
 _삼성전자 DS부문 기업문화 개선 : 문화적 다양성 관점에서의 기업문화 현황 분석 및 미래세대 비전 제시_<br>
-[#최서영](https://arxiv.org/pdf/2206.10999)
+[#최서영](https://thecomputationalsociologylab.github.io/people/seoyoung_choi/index.html)
 
 _KISDI_<br>
-[#최서영](https://arxiv.org/pdf/2206.10999)
+[#최서영](https://{{site.baseurl}}/images/people/seoyoung_choi/index.html)
+
 
 ### Copyright Notice
 
