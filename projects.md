@@ -13,7 +13,7 @@ _삼성전자 DS부문 기업문화 개선 : 문화적 다양성 관점에서의
 [#최서영](https://thecomputationalsociologylab.github.io/people/seoyoung_choi/index.html)
 
 _KISDI_<br>
-[#최서영](https://{{site.baseurl}}/images/people/seoyoung_choi/index.html)
+[#최서영](https://thecomputationalsociologylab.github.io/people/seoyoung_choi/index.html)
 
 
 ### Copyright Notice
