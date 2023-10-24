@@ -3,17 +3,15 @@ title: Project
 permalink: /project/
 ---
 
-For those interested in numbers, see Konrad's [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
-
-We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
+프로젝트 페이지 입니다. 
 
 <hr>
 
 ### 2022
 
-_Data-driven exclusion criteria for instrumental variable studies_<br>
+_삼성전자 DS부문 기업문화 개선 : 문화적 다양성 관점에서의 기업문화 현황 분석 및 미래세대 비전 제시_<br>
 Tony Liu, Patrick Lawlor, Lyle Ungar, Konrad Kording<br>
-Conference on Causal Learning and Reasoning, 2022 ([Article](https://proceedings.mlr.press/v177/liu22a/liu22a.pdf))
+[#최서영](https://arxiv.org/pdf/2206.10999)
 
 _Neural Networks as Paths through the Space of Representations_<br>
 Richard D Lange, Jordan Matelsky, Xinyue Wang, Devin Kwok, David S Rolnick, Konrad P Kording<br>
