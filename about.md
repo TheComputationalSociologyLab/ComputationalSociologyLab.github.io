@@ -4,20 +4,18 @@ permalink: /about/
 ---
 
 ### About us
-We are a group of data scientists with interest in brains and, more general, biomedical research. Our research is more diverse than most labs, and also changes much more quickly! Right at the moment, much of the research in the lab is about deep learning and its applications. We also do a good bit of neural data analysis. Right now we are also very much interested in causality and its links with machine learning.
+We are a group of data scientists interested in broadly-defined social science topics nested in Korea Advanced Institute of Science and Technology. Using big data and computational techniques, we explore innovative ways of investigating old and new social problems. Our lab’s agenda is not static but rather the results of collective interests of lab members. Currently, our lab members’ research topics center around fairness/ethics in AI, law and society, knowledge communication, and organization diversity.
 
 ### Research
-Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
-
-Our conceptual work addresses information processing in the nervous system from two angles: (1) By analyzing and explaining electrophysiological data, we study what neurons do. (2) By analyzing and explaining human behavior, we study what all these neurons do together. Much of our work looks at these questions from a normative or causal viewpoint, asking what problems the nervous system should be solving. This often means taking a Bayesian approach. Bayesian decision theory is the systematic way of calculating how the nervous system may make good decisions in the presence of uncertainty. Causal inference from observational data promises to be a key enabler for progress in science.
-
-We've pursued projects that involve handshake greetings, human movement, [cell-phone related parkinson's research](http://journal.frontiersin.org/article/10.3389/fneur.2012.00158/abstract), competitions at [Kaggle](https://www.kaggle.com/), [meta-science analysis](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), data sharing initiatives, and [recording from all neurons in a mouse](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002291).
+Society, like human beings, is full of complexity and irregularity, which makes social scientists difficult to investigate the world. Owing to the advancement of big data, we have one more clue to observe fine-grained human behavior through this lens. Our lab maximizes this opportunity by collecting and analyzing big data that were not for academic purposes before. By doing so, we not only expand the understanding of society, but also show the direction toward fair and just society. 
+We take an interdisciplinary approach covering a wide range of topics. Simultaneously, we connect theoretically engaging academic research with practically useful industry and government research. We’ve pursued projects that involve diversity in organization, technology and society, law and society, and global knowledge structure.
+We illustrate the detailed list of current projects and working papers in this lab page. Please check out the latest works of lab members in [projects](https://thecomputationalsociologylab.github.io/project/) and [publications](https://thecomputationalsociologylab.github.io/publication/) tab.
 
 The best way to get a sense of what's currently going on in the lab is to check out the work of individual lab members:
 
 ### Lab Members
 
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kordinglab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
+Our research group is surprisingly diverse. Our interests span sociology, computer science, information science, law, public policy, international relations, economics, and many other disciplines. We are mostly master’s students and undergrad interns at this moment. Visit our [people page](https://thecomputationalsociologylab.github.io/people/) to see more information on each person who works in the lab.
 
 ### Lab Culture
 
