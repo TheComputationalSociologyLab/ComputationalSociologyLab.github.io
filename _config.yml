@@ -9,7 +9,7 @@ description:        "Computational Sociology Lab is a research group at the the 
 
 
 # URL
-url:                http://kordinglab.com
+url:                https://computationalsociologylab.github.io/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
