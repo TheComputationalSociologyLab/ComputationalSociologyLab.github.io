@@ -8,8 +8,8 @@ joined: 2023
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ## About Me
-Digital Humanities and Computational Social Sciences master's students(especially in computational social science)
-These are the keywords that represent me.
+Digital Humanities and Computational Social Sciences master's students(especially in computational social science)  
+These are the keywords that represent me.  
 #CSS&CS #👩‍💻software developer #📱IT #📊Data  #📋Business   
 
 
