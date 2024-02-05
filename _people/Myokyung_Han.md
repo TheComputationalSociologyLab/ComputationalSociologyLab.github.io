@@ -1,5 +1,5 @@
 ---
-name: Han Myo-Kyung
+name: Myokyung Han
 position: gradstudent
 avatar: Han_Myo-Kyung.png
 joined: 2023

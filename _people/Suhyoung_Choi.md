@@ -1,5 +1,5 @@
 ---
-name: Choi Suh-young
+name: Suhyoung Choi
 position: gradstudent
 avatar: Choi_Suh-young.png
 joined: 2023

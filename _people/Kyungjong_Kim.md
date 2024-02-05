@@ -1,5 +1,5 @@
 ---
-name: Kim Kyung-Jong
+name: Kyungjong Kim
 position: gradstudent
 avatar: Kim_Kyung-Jong.png
 joined: 2023

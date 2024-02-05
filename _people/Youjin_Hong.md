@@ -1,5 +1,5 @@
 ---
-name: Hong You-jin
+name: Youjin Hong
 position: gradstudent
 avatar: Hong You-jin.png
 joined: 2023

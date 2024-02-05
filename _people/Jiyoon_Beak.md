@@ -1,5 +1,5 @@
 ---
-name: Beak Ji-yoon
+name: Jiyoon Beak
 position: gradstudent
 avatar: Beak Ji-yoon.png
 joined: 2023
