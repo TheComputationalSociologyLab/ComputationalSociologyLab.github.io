@@ -10,5 +10,7 @@ joined: 2023
 ## About Me
   Youjin Hong is an M.S. student at the Graduate School of Data Science(GSDS) in KAIST. With an undergraduate background in law, she aims to utilize law-related data to drive real-world changes. Her methodological interests are centered around Natural Language Processing, Generative Models, and Graph Neural Networks, reflecting her commitment to the innovative and practical application of data science.
   
+
+
 ## Contact
 <i class="fa fa-envelope-o"></i>  `yjhongkr@kaist.ac.kr`<br>
