@@ -8,30 +8,30 @@ For those interested in numbers, see Lanu's [google scholar citations profile](h
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
-(Working papers)
+(Working papers)   
 _A persistent gender pay gap among faculty in a public university system_<br>
-#김란우, Bas Hofstra, Sebastian MN Galvez<br>
+[#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Bas Hofstra, Sebastian MN Galvez<br>
 
 _What can conceptual networks tell us about scientific progress?_<br>
-#김란우, Vivek Kulkarni, Daniel A. McFarland<br>
+[#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Vivek Kulkarni, Daniel A. McFarland<br>
 
 _The Ethics of Generative AI in Social-Scientific Research: A Qualitative Approach for Community-Based AI Ethics _<br>
-June Jeon, Jaehyuk Park*, #김란우 (* co-corresponding author)<br>
+June Jeon, Jaehyuk Park*, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) (* co-corresponding author)<br>
 
 _Generative AI and disparity in willingness to learn_<br>
-Dujin Park, #최서영, #김란우, June Jeon<br>
+Dujin Park, #최서영, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), June Jeon<br>
 
 _Synchronizing patterns of higher education toward medicine and computer science_<br>
-#홍유진, Byungjun Kim, June Jeon, #김란우<br>
+#홍유진, Byungjun Kim, June Jeon, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br>
 
 _Peripheralizing Social Science Academia: A Relational Landscape of the Global and Local Social Sciences_<br>
-June Jeon*, Byungjun Kim*, #최서영, Maida Aizaz, #김란우 (* co-first author) <br>
+June Jeon*, Byungjun Kim*, #최서영, Maida Aizaz, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) (* co-first author) <br>
 
 <hr>
 
 (Published works)
 Opening the Blackbox of Computational Social Science Research Process: A Case of Comparative Study of Social Science Academia_<br>
-June Jeon*, Byungjun Kim*, Jaehong Kim, #김란우 (* co-first author)
+June Jeon*, Byungjun Kim*, Jaehong Kim, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) (* co-first author)
 Korea Journal of Sociology, 2023 (https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967055)
 
 Lanu Kim, Sanne Smith, Linus Dahlander, and Daniel A. McFarland. 2022. “Networking a career: Individual adaptation in the network ecology of faculty.” Social Networks (online). Link
