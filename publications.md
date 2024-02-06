@@ -22,7 +22,7 @@ _Generative AI and disparity in willingness to learn_<br>
 Dujin Park, [#Suhyoung Choi](https://computationalsociologylab.github.io/people/Suhyoung_Choi/index.html), [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), June Jeon<br>
 
 _Synchronizing patterns of higher education toward medicine and computer science_<br>
-[#Suhyoung Choi](https://computationalsociologylab.github.io/people/Youjin_Hong/index.html), Byungjun Kim, June Jeon, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br>
+[#Youjin Hong](https://computationalsociologylab.github.io/people/Youjin_Hong/index.html), Byungjun Kim, June Jeon, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br>
 
 _Peripheralizing Social Science Academia: A Relational Landscape of the Global and Local Social Sciences_<br>
 June Jeon*, Byungjun Kim*, [#Suhyoung Choi](https://computationalsociologylab.github.io/people/Suhyoung_Choi/index.html), Maida Aizaz, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) (* co-first author) <br>
