@@ -34,31 +34,31 @@ _Opening the Blackbox of Computational Social Science Research Process: A Case o
 June Jeon\*, Byungjun Kim\*, Jaehong Kim, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) (\* co-first author)   
 Korea Journal of Sociology, 2023 [Article](https://kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967055)<br>
 
-_Networking a career: Individual adaptation in the network ecology of faculty_
+_Networking a career: Individual adaptation in the network ecology of faculty_<br>
 [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Sanne Smith, Linus Dahlander, and Daniel A. McFarland [Article](https://doi.org/10.1016/j.socnet.2022.04.002)<br>
 
-_Gendered Knowledge in Fields and Academic Careers_
+_Gendered Knowledge in Fields and Academic Careers_<br>
 [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Daniel Scott Smith, Bas Hofstra, and Daniel A. McFarland [Article](https://doi.org/10.1016/j.respol.2021.104411)<br>
 
-Diversifying history: A large-scale analysis of changes in researcher demographics and scholarly agendas_
+_Diversifying history: A large-scale analysis of changes in researcher demographics and scholarly agendas_<br>
 Risi, Stephan, Mathias W. Nielsen, Emma Kerr, Emer Brady, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Daniel A. McFarland, Dan Jurafsky, James Zou, and Londa Schiebinger [Article](https://doi.org/10.1371/journal.pone.0262027)<br>
 
-_Exploring telerobotic cardiac catheter ablation in a rural community hospital: A pilot study_
+_Exploring telerobotic cardiac catheter ablation in a rural community hospital: A pilot study_<br>
 Serafini, Brian, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Basil M. Saour, Ryan James, Blake Hannaford, Ryan Hansen, Tadayoshi Kohno, Wayne Monsky, and Stephen P. Seslar [Article](https://doi.org/10.1016/j.cvdhj.2022.10.003)<br>
 
-_Opportunities and Barriers to Rural Telerobotic Surgical Health Care in 2021: Report and Research Age_
+_Opportunities and Barriers to Rural Telerobotic Surgical Health Care in 2021: Report and Research Age_<br>
 Hansen, Ryan N., Basil Matthew Saour, Brian Serafini, Blake Hannaford, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Takayoshi Kohno, Ryan James, Wayne Monsky, and Stephen P. Seslar [Article](https://doi.org/10.1089/tmj.2021.0378)<br>
 
-_Labour Market Uncertainty and the Economic Foundations of Marriage in South Korea_
+_Labour Market Uncertainty and the Economic Foundations of Marriage in South Korea_<br>
 Yoon, Soo-Yeon, Sojung Lim, and [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) [Article](https://www.tandfonline.com/doi/abs/10.1080/17441730.2021.1932065)<br>
 
-_The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction_
+_The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction_<br>
 [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Christopher Adolph, Jevin West, and Katherine Stovel [Article](https://sociologicalscience.com/articles-v7-13-314/)<br>
 
-_Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives_
+_Scientific Journals Still Matter in the Era of Academic Search Engines and Preprint Archives_<br>
 [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Jason Portenoy, Jevin West, and Katherine Stovel [Article](https://doi.org/10.1002/asi.24326)<br>
 
-_Is Korean Academia Unique?: Comparison of Knowledge Discourses between Korean and International Sociology_
+_Is Korean Academia Unique?: Comparison of Knowledge Discourses between Korean and International Sociology_<br>
 [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), Sue-yeon Song. 2020.  [Article](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10502123)<br>
 
 ### Copyright Notice
