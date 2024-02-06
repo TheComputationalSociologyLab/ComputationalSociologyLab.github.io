@@ -19,13 +19,13 @@ _The Ethics of Generative AI in Social-Scientific Research: A Qualitative Approa
 June Jeon, Jaehyuk Park*, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) (* co-corresponding author)<br>
 
 _Generative AI and disparity in willingness to learn_<br>
-Dujin Park, #최서영, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), June Jeon<br>
+Dujin Park, [#Suhyoung Choi](https://computationalsociologylab.github.io/people/Suhyoung_Choi/index.html), [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html), June Jeon<br>
 
 _Synchronizing patterns of higher education toward medicine and computer science_<br>
-#홍유진, Byungjun Kim, June Jeon, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br>
+[#Suhyoung Choi](https://computationalsociologylab.github.io/people/Youjin_Hong/index.html), Byungjun Kim, June Jeon, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html)<br>
 
 _Peripheralizing Social Science Academia: A Relational Landscape of the Global and Local Social Sciences_<br>
-June Jeon*, Byungjun Kim*, #최서영, Maida Aizaz, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) (* co-first author) <br>
+June Jeon*, Byungjun Kim*, [#Suhyoung Choi](https://computationalsociologylab.github.io/people/Suhyoung_Choi/index.html), Maida Aizaz, [#Lanu Kim](https://computationalsociologylab.github.io/people/lanu_kim/index.html) (* co-first author) <br>
 
 <hr>
 
