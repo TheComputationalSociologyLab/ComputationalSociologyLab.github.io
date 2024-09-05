@@ -13,11 +13,11 @@ Hello! I am a masters student at the Graduate School of Data Science (GSDS), aft
  
 
 ## My interests
-Computational social science
-Data-centric design
-Science of science
-Computer vision
-Data visualisation
+* Computational social science
+* Data-centric design
+* Science of science
+* Computer vision
+* Data visualisation
 
 
 ## Contact
