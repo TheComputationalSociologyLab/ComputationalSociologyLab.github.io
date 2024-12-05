@@ -13,7 +13,7 @@ joined: 2024
 
 
 ## My interests
-  * Data Science
+  * Data-driven Sociology
   * Discourse on Online Communities
   * Processes of Ideology Formation
   * Machine Learning
