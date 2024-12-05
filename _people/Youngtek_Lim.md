@@ -8,7 +8,7 @@ joined: 2024
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" onerror="this.src='{{site.baseurl}}/images/people/yeongtaek_lim.jpg';" data-action="zoom">
 
 ## About Me
-  A master's student specializing in computational sociology, focusing on data-driven analyses of online social conflicts.
+  A master's student majoring in computational sociology, focusing on data-driven analyses of online social conflicts.
   
 
 
