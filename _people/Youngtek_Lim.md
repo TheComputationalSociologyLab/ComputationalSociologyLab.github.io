@@ -1,7 +1,7 @@
 ---
 name: Yeongtaek Lim
 position: gradstudent
-avatar: Lim_Yeong-taek.png
+avatar: yeongtaek_lim.jpg
 joined: 2024
 ---
 
