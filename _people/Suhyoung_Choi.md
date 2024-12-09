@@ -20,7 +20,7 @@ Studying Data Science and the application of computational methods solving socia
 ## Updates
 * **Outstanding TA Award for KAIST's Education 4.0 Q Program**  
   Received the Outstanding Work as a TA award for the Education 4.0 Q Program at KAIST, Spring 2024, under the guidance of Professor Lanu Kim. *(Awarded on September 19, 2024)*
-* **IC2S2 (International Conference on Computational Social Science) 2024**
+* **IC2S2 (International Conference on Computational Social Science) 2024**  
   Presented research titled **"Exploring When and How Much Annotator Diversity is Necessary for Effective Machine Learning Models"** at IC2S2 2024. *(Presented on July 17–20, 2024)*
 
 ## Contact
