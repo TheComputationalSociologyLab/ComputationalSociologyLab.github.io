@@ -17,6 +17,11 @@ Studying Data Science and the application of computational methods solving socia
 * Machine Learning
 * Natural Language Processing
 
+## Updates
+* September 19, 2024
+Received the Outstanding Work as a TA award for the Education 4.0 Q Program at KAIST, Spring 2024, under the guidance of Professor Lanu Kim.
+* July 17–20, 2024
+Presented research titled "**Exploring When and How Much Annotator Diversity is Necessary for Effective Machine Learning Models**" at IC2S2 (International Conference on Computational Social Science) 2024.
 
 ## Contact
 <i class="fa fa-envelope-o"></i>  `s.y.choi@kaist.ac.kr`<br>
