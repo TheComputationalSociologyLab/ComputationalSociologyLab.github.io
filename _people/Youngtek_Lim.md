@@ -18,7 +18,7 @@ joined: 2024
   * Natural Language Processing
 
 ## Updates
-* Singapore AI Safety Red Teaming Challenge 2024 *(Event held on November 3–6, 2024)*  
+* **Singapore AI Safety Red Teaming Challenge 2024** *(Event held on November 3–6, 2024)*  
   Represented the South Korean team in the AI Safety Red Teaming Challenge 2024, a competition uniting teams from across Asia.  
   Conducted red-teaming on three large language models (LLMs) and proudly achieved third place in the team category.
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" onerror="this.src='{{site.baseurl}}/images/people/Yongtaek_AI.jpg';" data-action="zoom">
