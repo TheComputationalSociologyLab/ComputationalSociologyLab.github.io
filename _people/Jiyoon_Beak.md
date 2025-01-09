@@ -8,7 +8,7 @@ joined: 2023
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" onerror="this.src='{{site.baseurl}}/images/people/404.jpg';" data-action="zoom">
 
 ## About Me
-Hello, I am Jiyun, and I am studying Data Science for my Master's degree. I used to study eastern philosophy, media, and human rights. I try my best to combine technical knowledge with social and ethical issues to share love for people, as well as for animals like cats, birds, and quokkas! 🐈🐧🐹
+Hello, I am Jiyun. I am studying Data Science for my Master's degree. I used to study eastern philosophy, media, and human rights. I try my best to combine technical knowledge with social and ethical issues to share love for people, as well as for animals like cats, birds, and quokkas! 🐈🐧🐹
 
 ## My interests
 * Data inequality
